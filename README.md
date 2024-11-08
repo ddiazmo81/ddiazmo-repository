@@ -1,6 +1,7 @@
 # Hola, soy David.
 
 Actualmente estoy estudiando el master de Data Science de la Universidad Europea de Madrid.
+De momento vamos bien....
 
 ## Conocimientos/habilidaddes
 ![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
